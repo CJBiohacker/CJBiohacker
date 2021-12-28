@@ -60,5 +60,5 @@
 
 ### Contato
 
-![](https://img.shields.io/badge/-carlosjunior137-blue?style=flat&logo=Linkedin&logoColor=white)
-![](https://img.shields.io/badge/-cj.moyses@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
+![![https://www.linkedin.com/in/carlosjunior137/]](https://img.shields.io/badge/-carlosjunior137-blue?style=flat&logo=Linkedin&logoColor=white)
+![![<a href="mailto:cj.moyses@gmail.com"></a>]](https://img.shields.io/badge/-cj.moyses@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
