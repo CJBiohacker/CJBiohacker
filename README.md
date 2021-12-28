@@ -51,6 +51,8 @@
 ![](https://img.shields.io/badge/fedora-072b61?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=FFFFFF)
 
+### [Certificados](https://github.com/CJBiohacker/Certificados)
+
 ### GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=CJBiohacker&show_icons=true&locale=en&layout=compact&theme=synthwave)
@@ -60,3 +62,4 @@
 
 ![](https://img.shields.io/badge/-carlosjunior137-blue?style=flat&logo=Linkedin&logoColor=white)
 ![](https://img.shields.io/badge/-cj.moyses@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
+
