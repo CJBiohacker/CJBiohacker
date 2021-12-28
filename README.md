@@ -1,4 +1,4 @@
-# Olá, eu sou o Carlos.<br>Seja bem-vindo(a) ao meu perfil.
+# Olá, eu sou o Carlos. Seja bem-vindo(a) ao meu perfil.
 
 ### Linguagens, Frameworks e Bibliotecas
 
