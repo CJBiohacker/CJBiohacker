@@ -62,4 +62,3 @@
 
 ![](https://img.shields.io/badge/-carlosjunior137-blue?style=flat&logo=Linkedin&logoColor=white)
 ![](https://img.shields.io/badge/-cj.moyses@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
-
