@@ -9,7 +9,6 @@
 ![](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
 ![](https://bit.ly/3mydYub)
 ![](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
-![](https://bit.ly/3FzMn3l)
 
 #### BackEnd
 
@@ -27,6 +26,7 @@
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
+![](https://bit.ly/3FzMn3l)
 
 ### IDE's e Editores de Texto
 
