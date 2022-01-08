@@ -40,7 +40,8 @@
 ### Ferramentas
 
 ![](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF)
-![](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF))
+![](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/libre%20office-18A303?style=for-the-badge&logo=libreoffice&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF)
