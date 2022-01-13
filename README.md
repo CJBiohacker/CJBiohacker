@@ -1,6 +1,6 @@
 # Hello, my name is Carlos. Be welcome to my profile !!!
 
-### Programming Languages, Frameworks e Libraries
+### Programming Languages, Frameworks and Libraries
 
 #### FrontEnd
 
