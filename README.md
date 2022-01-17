@@ -34,7 +34,7 @@
 ![](https://img.shields.io/badge/vsCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/visual%20studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF)
-![](https://img.shields.io/badge/atom.io%2B%2B-66595C?style=for-the-badge&logo=atom&logoColor=FFFFFF)
+![](https://img.shields.io/badge/atom.io-66595C?style=for-the-badge&logo=atom&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/notepad%2B%2B-52E59A?style=for-the-badge&logo=notepadplusplus&logoColor=FFFFFF)
 
 ### Softwares and Tools
