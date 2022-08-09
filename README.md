@@ -9,12 +9,13 @@
 ![](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
 ![](https://bit.ly/3mydYub)
 ![](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
+![](https://bit.ly/3FzMn3l)
 
 #### BackEnd
 
 ![](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=FFFFFF)
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=FFFFFF)
 
 ### DataBase
 
@@ -24,11 +25,9 @@
 
 ### Learning
 
-![](https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-![](https://bit.ly/3FzMn3l)
 ![](https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF)
-![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
 
 ### IDE's and Text Editors
 
@@ -44,8 +43,10 @@
 ![](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![](https://img.shields.io/badge/PostGre-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=FFFFFF)
+![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
 
 ### Operational Systems
 
