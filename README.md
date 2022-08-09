@@ -24,10 +24,9 @@
 
 ### Learning
 
-![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 ![](https://bit.ly/3FzMn3l)
-![](https://img.shields.io/badge/microsoft%20azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
 
