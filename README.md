@@ -9,13 +9,12 @@
 ![](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
 ![](https://bit.ly/3mydYub)
 ![](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
-![](https://bit.ly/3FzMn3l)
+![](https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=FFFFFF)
 
 #### BackEnd
 
+![](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=FFFFFF)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=FFFFFF)
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=FFFFFF)
 
 ### DataBase
 
@@ -24,12 +23,6 @@
 ![](https://img.shields.io/badge/firebase-FFDA28?style=for-the-badge&logo=firebase&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/PostGre-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
-
-### Learning
-
-![](https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=FFFFFF)
-![](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-![](https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF)
 
 ### IDE's and Text Editors
 
