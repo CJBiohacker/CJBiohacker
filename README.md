@@ -58,14 +58,14 @@
 
 ### Personal Contact
 
-<a href="https://www.linkedin.com/in/carlosjunior137/">
+<a href="https://www.linkedin.com/in/carlosjunior137/" target="_blank">
   <img src="https://img.shields.io/badge/-carlosjunior137-blue?style=flat&logo=Linkedin&logoColor=white" alt="badge linkedin">
 </a>
-<a href="mailto:cj.moyses@gmail.com">
+<a href="mailto:cj.moyses@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-cj.moyses@gmail.com-red?style=flat&logo=Gmail&logoColor=white" alt="badge gmail">
 </a>
 
-<a href="https://calendly.com/carlosjunior137/dicas-de-carreira-em-programacao">
+<a href="https://calendly.com/carlosjunior137/dicas-de-carreira-em-programacao" target="_blank">
   <img src="https://img.shields.io/badge/-Meetings%20and%20Calls-098D80?style=flat&logo=GoogleMeet&logoColor=white" alt="Google Meet Link"/>
 </a>
 
