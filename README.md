@@ -66,7 +66,7 @@
 </a>
 
 <a href="https://calendly.com/carlosjunior137/dicas-de-carreira-em-programacao">
-  <img src="https://img.shields.io/badge/-Meetings-and-Calls-098D80?style=flat&logo=GoogleMeet&logoColor=white" alt="Google Meet Link"/>
+  <img src="https://img.shields.io/badge/-Meetings%20and%20Calls-098D80?style=flat&logo=GoogleMeet&logoColor=white" alt="Google Meet Link"/>
 </a>
 
 
