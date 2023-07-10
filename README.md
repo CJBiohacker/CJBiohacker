@@ -59,10 +59,14 @@
 ### Personal Contact
 
 <a href="https://www.linkedin.com/in/carlosjunior137/">
-<img src="https://img.shields.io/badge/-carlosjunior137-blue?style=flat&logo=Linkedin&logoColor=white" alt="badge linkedin">
+  <img src="https://img.shields.io/badge/-carlosjunior137-blue?style=flat&logo=Linkedin&logoColor=white" alt="badge linkedin">
 </a>
 <a href="mailto:cj.moyses@gmail.com">
-<img src="https://img.shields.io/badge/-cj.moyses@gmail.com-red?style=flat&logo=Gmail&logoColor=white" alt="badge gmail">
+  <img src="https://img.shields.io/badge/-cj.moyses@gmail.com-red?style=flat&logo=Gmail&logoColor=white" alt="badge gmail">
 </a>
 
-<a href="https://app.daily.dev/CJStackMERN"><img src="https://api.daily.dev/devcards/7aca0a0598ee4f52a385655eaf8a0e0e.png?r=9e5" width="400" alt="Carlos Junior's Dev Card"/></a>
+<a href="https://calendly.com/carlosjunior137/dicas-de-carreira-em-programacao">
+  <img src="https://img.shields.io/badge/-meetings-098D80?style=flat&logo=GoogleMeet&logoColor=white" width="50" alt="Google Meet Link"/>
+</a>
+
+
