@@ -6,10 +6,11 @@
 
 ![](https://bit.ly/3Eztv2T)
 ![](https://bit.ly/3z2qLKi)
-![](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
+![](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=FFFFFF)
 ![](https://bit.ly/3mydYub)
 ![](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=FFFFFF)
+![](https://img.shields.io/badge/react-7cc5d9?style=for-the-badge&logo=react&logoColor=FFFFFF)
 
 #### BackEnd
 
