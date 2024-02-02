@@ -10,7 +10,7 @@
 ![](https://bit.ly/3mydYub)
 ![](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=FFFFFF)
-![](https://img.shields.io/badge/react-7cc5d9?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![](https://img.shields.io/badge/react-61CAFB?style=for-the-badge&logo=react&logoColor=white)
 
 #### BackEnd
 
@@ -49,6 +49,7 @@
 ![](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/fedora-072b61?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=FFFFFF)
+![](https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
 ### [Certificates](https://github.com/CJBiohacker/Certificados)
 
