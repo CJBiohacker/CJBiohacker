@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
+<br>
 ![](https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=FFFFFF)
 ![](http://little-url.onrender.com/BLVY71U2L)
@@ -33,6 +34,7 @@
 ![](https://img.shields.io/badge/firebase-FFDA28?style=for-the-badge&logo=firebase&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/PostGre-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+<br>
 ![](https://img.shields.io/badge/amazon%20redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/clickhouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=FFFFFF)
 
@@ -42,6 +44,7 @@
 ![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+<br>
 ![](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/google%20cloud%20platform-0266C8?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FFFFFF)
@@ -66,6 +69,7 @@
 ![](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=FFFFFF)
+<br>
 ![](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/webpack-1DD6F9?style=for-the-badge&logo=webpack&logoColor=FFFFFF)
 
