@@ -2,6 +2,13 @@
 
 ### Programming Languages, Frameworks and Libraries
 
+#### Languages
+
+![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![](https://img.shields.io/badge/java/spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF)
+![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF)
+
 #### FrontEnd
 
 ![](https://bit.ly/3Eztv2T)
@@ -17,7 +24,6 @@
 #### BackEnd
 
 ![](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-![](https://img.shields.io/badge/java/spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/koa-33333D?style=for-the-badge&logo=koa&logoColor=FFFFFF)
 
