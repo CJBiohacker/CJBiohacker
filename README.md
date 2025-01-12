@@ -1,15 +1,15 @@
 # Hello, my name is Carlos. Be welcome to my profile !!!
 
-### Programming Languages, Frameworks and Libraries
+## Programming Langs and Tech Skills
 
-#### Languages
+### Languages
 
 ![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/java/spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF)
 
-#### FrontEnd
+### FrontEnd
 
 ![](https://bit.ly/3Eztv2T)
 ![](https://bit.ly/3z2qLKi)
@@ -21,7 +21,7 @@
 ![](http://little-url.onrender.com/BLVY71U2L)
 ![](https://img.shields.io/badge/react-61CAFB?style=for-the-badge&logo=react&logoColor=white)
 
-#### BackEnd
+### BackEnd
 
 ![](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
