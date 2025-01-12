@@ -43,6 +43,8 @@
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)
+![](https://img.shields.io/badge/google%20cloud%20platform-0266C8?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF)
 
 ### Operational Systems
 
@@ -51,7 +53,8 @@
 ![](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
-### [Certificates](https://github.com/CJBiohacker/Certificados)
+### [Certificates]
+#### [Click here](https://github.com/CJBiohacker/Certificados)
 
 ### GitHub Stats
 
@@ -60,9 +63,14 @@
 
 ### Personal Contact
 
+<a href="https://cjbiohacker.github.io/myportfoliowebsite/" target="_blank">
+  <img src="https://img.shields.io/badge/-portfolio-6e2bcc?style=flat&logo=codementor&logoColor=white" alt="badge portfolio">
+</a>
+
 <a href="https://www.linkedin.com/in/carlosjunior137/" target="_blank">
   <img src="https://img.shields.io/badge/-carlosjunior137-blue?style=flat&logo=Linkedin&logoColor=white" alt="badge linkedin">
 </a>
+
 <a href="mailto:cj.moyses@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-cj.moyses@gmail.com-red?style=flat&logo=Gmail&logoColor=white" alt="badge gmail">
 </a>
