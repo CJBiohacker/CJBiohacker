@@ -40,6 +40,7 @@
 
 ![](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/google%20cloud%20platform-0266C8?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF)
