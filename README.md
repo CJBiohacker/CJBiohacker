@@ -78,9 +78,6 @@
 
 ### Certificates - [Click here](https://github.com/CJBiohacker/Certificados)
 
-### GitHub Stats
-[![](https://github-readme-stats.vercel.app/api?username=CJBiohacker&show_icons=true&locale=en&layout=compact&theme=synthwave)![](https://github-readme-stats.vercel.app/api/top-langs/?username=CJBiohacker&langs_count=10&show_icons=true&locale=en&layout=compact&theme=synthwave)]: # 
-
 ### Personal Contact
 
 <a href="https://cjbiohacker.github.io/myportfoliowebsite/" target="_blank">
