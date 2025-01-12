@@ -30,10 +30,11 @@
 ### DataBase
 
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
-![](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/firebase-FFDA28?style=for-the-badge&logo=firebase&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/PostGre-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+![](https://img.shields.io/badge/amazon%20redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=FFFFFF)
+![](https://img.shields.io/badge/clickhouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=FFFFFF)
 
 ### Infra/Cloud/DevOps
 
