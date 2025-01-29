@@ -85,7 +85,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/carlosjunior137/" target="_blank">
-  <img src="http://little-url.onrender.com/qtzZSdELg" alt="badge linkedin">
+  <img src="http://little-url.onrender.com/UvThP_UIF" alt="badge linkedin">
 </a>
 
 <a href="mailto:cj.moyses@gmail.com" target="_blank">
