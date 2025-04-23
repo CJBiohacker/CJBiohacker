@@ -90,7 +90,7 @@
   <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="badge gmail">
 </a>
 
-<a href="https://calendly.com/carlosjunior137/dicas-de-carreira-em-programacao" target="_blank">
+<a href="https://calendar.app.google/pVYEMqM1euEfiMRi8" target="_blank">
   <img src="https://img.shields.io/badge/-Meetings%20and%20Calls-098D80?style=flat&logo=GoogleMeet&logoColor=white" alt="Google Meet Link"/>
 </a>
 
