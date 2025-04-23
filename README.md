@@ -66,7 +66,6 @@
 ![](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/webpack-1DD6F9?style=for-the-badge&logo=webpack&logoColor=FFFFFF)
-![](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF)
 
 ### Operational Systems
 
