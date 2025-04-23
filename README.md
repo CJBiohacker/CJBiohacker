@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![](https://tinyurl.com/55ctky3v)
 ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF)
+<> ![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF)
 
 ### FrontEnd
 
@@ -45,7 +45,7 @@
 ![](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/google%20cloud%20platform-0266C8?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FFFFFF)
-![](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=FFFFFF)
+<> ![](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=FFFFFF)
 
 ### Testing
 ![](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=FFFFFF)
@@ -68,6 +68,7 @@
 ![](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/webpack-1DD6F9?style=for-the-badge&logo=webpack&logoColor=FFFFFF)
+![](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF)
 
 ### Operational Systems
 
