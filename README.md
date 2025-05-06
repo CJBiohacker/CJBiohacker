@@ -45,7 +45,7 @@
 ![](https://img.shields.io/badge/google%20cloud%20platform-0266C8?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FFFFFF)
 
-### Testing
+### Q&A/Testing
 ![](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=FFFFFF)
